@@ -1,0 +1,30 @@
+[
+  {
+    "rating": "4.5",
+    "title": "Sevilla",
+    "text": "Henrique Camacho & Fatality",
+    "img": "img/henrique.jpg",
+    "audio": "audio.mp3"
+  },
+  {
+    "rating": "4.6",
+    "title": "Demons of Pain Remix",
+    "text": "Infected Mushroom",
+    "img": "img/henrique2.jpg",
+    "audio": "Demons.mp3"
+  },
+  {
+    "rating": "4.5",
+    "title": "Contagiante",
+    "text": "Henrique Camacho",
+    "img": "img/henrique3.jpg",
+    "audio": "Contagiante.mp3"
+  },
+  {
+    "rating": "4.6",
+    "title": "PEACE LIFE",
+    "text": "Hazard Bin",
+    "img": "img/lotr1.jpg",
+    "audio": "audio.mp3"
+  }
+]

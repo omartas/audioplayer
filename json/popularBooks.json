@@ -1,0 +1,30 @@
+[
+  {
+    "rating": "4.5",
+    "title": "THE WATER CURE",
+    "text": "Martin Hyatt",
+    "img": "img/henrique.jpg",
+    "audio": "Voices.mp3"
+  },
+  {
+    "rating": "4.6",
+    "title": "PEACE LIFE",
+    "text": "Hazard Bin",
+    "img": "img/henrique3.jpg",
+    "audio": "Voices.mp3"
+  },
+  {
+    "rating": "4.5",
+    "title": "THE WATER CURE",
+    "text": "Martin Hyatt",
+    "img": "img/henrique2.jpg",
+    "audio": "Voices.mp3"
+  },
+  {
+    "rating": "4.6",
+    "title": "PEACE LIFE",
+    "text": "Hazard Bin",
+    "img": "img/img8.png",
+    "audio": "Voices.mp3"
+  }
+]
